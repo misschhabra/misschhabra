@@ -1,5 +1,7 @@
+![MasterHead](https://media.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm TANISHKA CHHABRA</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXY3bDRud3VseWJ5ZmZiZHU0Y2hvdmQ2Nmc1bDdjaWZ0c2J5eG5zeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okFG5aJWqRGMYXoKTD/giphy.gif">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=misschhabra&label=Profile%20views&color=0e75b6&style=flat" alt="misschhabra" />
