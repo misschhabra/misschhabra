@@ -53,4 +53,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=misschhabra&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
 </p>
+<h2 align="center">🐍 Watch my contributions get eaten!</h2>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/misschhabra/misschhabra/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
