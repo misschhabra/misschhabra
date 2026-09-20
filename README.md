@@ -47,7 +47,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" width="500"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misschhabra&theme=tokyonight" width="500" alt="GitHub Stats">
 </p>
 
 ## 🔥 GitHub Streak
