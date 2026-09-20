@@ -44,15 +44,19 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
-<h3 align="center">📊 GitHub Stats</h3>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=misschhabra&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=misschhabra&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misschhabra&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+## 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=misschhabra&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=misschhabra&theme=tokyonight&hide_border=true" />
 </p>
+
 <h2 align="center">🐍 Watch my contributions get eaten!</h2>
 
 <p align="center">
